@@ -1,0 +1,2 @@
+# No third-party Python packages required.
+# CivicServe uses Python 3.10+ standard library only.
